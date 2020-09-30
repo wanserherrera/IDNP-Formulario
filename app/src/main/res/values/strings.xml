@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IDNP-Formulario</string>
+    <string name="Titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="Aceptar">Registrar</string>
+    <string name="titulo2">Datos del estudiante</string>
+    <string name="btnOk">OK</string>
+    <string name="cui">CUI</string>
 </resources>
